@@ -1,0 +1,15 @@
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\bin\Debug\net10.0\CORTE-ONE.exe
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\bin\Debug\net10.0\CORTE-ONE.deps.json
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\bin\Debug\net10.0\CORTE-ONE.runtimeconfig.json
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\bin\Debug\net10.0\CORTE-ONE.dll
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\bin\Debug\net10.0\CORTE-ONE.pdb
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\CORTE-ONE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\CORTE-ONE.AssemblyInfoInputs.cache
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\CORTE-ONE.AssemblyInfo.cs
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\CORTE-ONE.csproj.CoreCompileInputs.cache
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\CORTE-ONE.sourcelink.json
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\CORTE-ONE.dll
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\refint\CORTE-ONE.dll
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\CORTE-ONE.pdb
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\CORTE-ONE.genruntimeconfig.cache
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\.vs\CORTE-ONE\obj\Debug\net10.0\ref\CORTE-ONE.dll

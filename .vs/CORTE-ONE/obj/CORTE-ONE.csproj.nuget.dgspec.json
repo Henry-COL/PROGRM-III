@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\CORTE-ONE\\CORTE-ONE.csproj": {}
+    "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\.vs\\CORTE-ONE\\CORTE-ONE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\CORTE-ONE\\CORTE-ONE.csproj": {
+    "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\.vs\\CORTE-ONE\\CORTE-ONE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\CORTE-ONE\\CORTE-ONE.csproj",
+        "projectUniqueName": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\.vs\\CORTE-ONE\\CORTE-ONE.csproj",
         "projectName": "CORTE-ONE",
-        "projectPath": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\CORTE-ONE\\CORTE-ONE.csproj",
+        "projectPath": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\.vs\\CORTE-ONE\\CORTE-ONE.csproj",
         "packagesPath": "C:\\Users\\Henry Quintero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\CORTE-ONE\\obj\\",
+        "outputPath": "C:\\Users\\Henry Quintero\\Documents\\GitHub\\PROGRM-III\\.vs\\CORTE-ONE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Henry Quintero\\AppData\\Roaming\\NuGet\\NuGet.Config",
