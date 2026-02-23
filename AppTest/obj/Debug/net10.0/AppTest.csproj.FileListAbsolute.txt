@@ -1,0 +1,5 @@
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\AppTest\obj\Debug\net10.0\AppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\AppTest\obj\Debug\net10.0\AppTest.AssemblyInfoInputs.cache
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\AppTest\obj\Debug\net10.0\AppTest.AssemblyInfo.cs
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\AppTest\obj\Debug\net10.0\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\Henry Quintero\Documents\GitHub\PROGRM-III\AppTest\obj\Debug\net10.0\AppTest.sourcelink.json
